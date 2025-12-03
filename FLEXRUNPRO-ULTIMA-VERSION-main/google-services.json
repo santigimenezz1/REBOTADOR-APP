@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638613196754",
+    "project_id": "rebotador-app",
+    "storage_bucket": "rebotador-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638613196754:android:15cca77fd68d292edf020b",
+        "android_client_info": {
+          "package_name": "com.rebotador.rebotador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jHYRV8iHGsWJraAydn9d4Xu2L-ljD4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
